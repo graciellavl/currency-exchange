@@ -1,0 +1,15 @@
+.App {
+  width: 30%;
+  margin: auto;
+  padding: 50px;
+  font-size: 20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
